@@ -1,4 +1,4 @@
 {
-  "dark": { "--bg": "#101418", "--text": "#e6e6e6", "--accent": "#3366ff" },
+  "dark": { "--bg": "#101418", "--text": "#e6e6e6", "--accent": "#ff3366" },
   "light": { "--bg": "#ffffff", "--text": "#111111", "--accent": "#0033cc" }
 }
