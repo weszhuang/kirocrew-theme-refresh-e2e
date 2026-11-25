@@ -1,0 +1,4 @@
+{
+  "dark": { "--bg": "#101418", "--text": "#e6e6e6", "--accent": "#3366ff" },
+  "light": { "--bg": "#ffffff", "--text": "#111111", "--accent": "#0033cc" }
+}
